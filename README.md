@@ -4,7 +4,7 @@ Here you can see the requirements.
 
 Here you can see a short video about the test session.
 
-
+![video](https://github.com/Bariscanates404/voyz-voyz_public/blob/main/Untitled_%20Jun%2022%2C%202022%206_52%20PM%20(1).gif)
 
 Here you can see all test reports.
 
