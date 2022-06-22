@@ -1,6 +1,8 @@
 An important test case because the website is changing often. So that's why test engineers must handle websites dynamically(without using unique locators).
-![case](https://user-images.githubusercontent.com/103248330/175099787-72460f53-cb68-4f1b-a2a8-c257d46ecffd.png)
+
 Here you can see the requirements. 
+![case](https://user-images.githubusercontent.com/103248330/175099787-72460f53-cb68-4f1b-a2a8-c257d46ecffd.png)
+
 
 Here you can see a short video about the test session.
 
